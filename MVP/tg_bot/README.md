@@ -1,3 +1,3 @@
 # Telegram Бот
 
-![Alt Text](https://jmp.sh/s/YeCRAY0HR99Ex9ZT7h5b)
+<a href="https://imgbly.com/ib/NhAapT1c6S"><img src="https://imgbly.com/ib/NhAapT1c6S.gif" alt="NhAapT1c6S"/></a>
