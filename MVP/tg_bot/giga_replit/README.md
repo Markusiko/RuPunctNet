@@ -1,2 +1,2 @@
-# giga_punctuation_bot
-TG-Bot for punctuation correction using GigaChat
+# Бот с использованием GigaChat API
+Данная реализация используется сейчас с помощью Replit 
