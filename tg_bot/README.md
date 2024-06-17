@@ -4,3 +4,11 @@
 Добавлено логирование и различные exception'ы.
 
 Кроме этого, история всех взаимодействий с ботом записывается в локальную базу данных с помощью sqlite3.
+
+## Docker
+Также сервис был упакован в Dockerfile, который можно запустить командами
+
+```console
+docker build -t punctuation-bot .
+docker run -d -p 5001:5001 --name telegram-bot -e BOT_TOKEN=... -e GIGACHAT_TOKEN=... punctuation-bot
+```
